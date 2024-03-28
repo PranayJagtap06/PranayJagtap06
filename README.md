@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm an Electrical Engineer ⚡ turned Python Enthusiast 🐍 and Machine Learning Explorer 🤖. Here, you'll find my journey through code, from structured circuits to structured data. Dive into my Python projects 💻 and ML notebooks 📓 as I unravel the mysteries of machine learning and power up the future with code! ⚡🧠
+- 🌱 I’m currently learning Machine Learning
 <!--
 **PranayJagtap06/PranayJagtap06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

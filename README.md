@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an Electrical Engineer ⚡ turned Python Enthusiast 🐍 and Machine Learning Explorer 🤖. Here, you'll find my journey through code, from apps to ML projects. Dive into my ML projects 💻 and ML notebooks 📓 as I unravel the mysteries of machine learning and power up the future with code! ⚡🧠
+I'm an Electrical Engineer ⚡ turned Python Enthusiast 🐍 and Machine Learning Explorer 🤖. Here, you'll find my journey through code, from apps to ML projects. Dive into my ML projects 💻 and ML notebooks 📓 as I explore machine learning and power up the future with ML! ⚡🧠
 
 - 🚀 Build [Indian foreign exchange reserves predictor](https://github.com/PranayJagtap06/IndianFutureReserves) and [0-5 hand sign classifier](https://github.com/PranayJagtap06/0-5_Hand_Sign_Classifier) streamlit app.
 - 🚀 Build a [DC-DC converter calculator](https://github.com/PranayJagtap06/convertercalc_flutter) with Flutter.

@@ -1,19 +1,13 @@
 ### Hi there 👋
 I'm an Electrical Engineer ⚡ turned Python Enthusiast 🐍 and Machine Learning Explorer 🤖. Here, you'll find my journey through code, from structured circuits to structured data. Dive into my Python projects 💻 and ML notebooks 📓 as I unravel the mysteries of machine learning and power up the future with code! ⚡🧠
-- 🚀 Build Indian foreign exchange reserves predictor and 0-5 hand sign classifier streamlit app.
-- 🚀 Build a DC-DC converter calculator with Flutter.
+
+- 🚀 Build [Indian foreign exchange reserves predictor](https://github.com/PranayJagtap06/IndianFutureReserves) and [0-5 hand sign classifier](https://github.com/PranayJagtap06/0-5_Hand_Sign_Classifier) streamlit app.
+- 🚀 Build a [DC-DC converter calculator](https://github.com/PranayJagtap06/convertercalc_flutter) with Flutter.
+- 🔭 I’m currently working on Bert Sentiment Analysis model trained on custom dataset.
 - 🌱 I’m currently exploring NLP.
-<!--
-**PranayJagtap06/PranayJagtap06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on building a new OPEN SOURCE, COMPLETELY FREE notes taking app for all platforms.
+- 🤔 I’m looking for help with Bert sentiment analysis model.
+- 💬 Ask me about machine learning.
+- 📫 How to reach me: [Contact | Pranay Jagtap](https://pranayjagtap.netlify.app/contact).
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I proposed my crush from school and got rejected 😜.
